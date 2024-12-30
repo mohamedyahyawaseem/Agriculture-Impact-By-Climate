@@ -71,13 +71,8 @@ This project integrates multiple data points for a comprehensive analysis:
    - Interactive Power BI features like maps, slicers, and tooltips ensure ease of exploration.  
    - Drill-through functionality allows for detailed analysis at a granular level.  
 
----
+--- 
 
-## 🖼️ Dashboard Preview  
-
-Here’s a preview of the dashboard:  
-
-![Dashboard Screenshot](path/to/your/dashboard-image.png)  
 
 The dashboard includes:  
 - A **global map** highlighting rainfall patterns, crop yield, and fertilizer usage.  
